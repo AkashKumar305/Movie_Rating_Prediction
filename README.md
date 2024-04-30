@@ -30,5 +30,4 @@ The main objective of this project is to develop a predictive model that estimat
 
 ## Usage
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Navigate to the `notebooks/` directory and run the Jupyter notebooks to execute the data cleaning, EDA, and modeling steps.
+2. Navigate to the directory and run the Jupyter notebooks to execute the data cleaning, EDA, and modeling steps.
